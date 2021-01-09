@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SendNotificationMassage</string>
+    <string name="user_name">User Name</string>
+    <string name="massage">Enter your Massage</string>
+    <string name="todo">TODO</string>
+    <string name="name">User Name</string>
+    <string name="send_your_massage">Send Your Massage</string>
+</resources>
